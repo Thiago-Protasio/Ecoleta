@@ -12,6 +12,7 @@ O projeto foi construido utilizando:
 - node 
 - react 
 - react native 
+- expo
 - axios
 - express 
 - celebrate 
